@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Takes input from in0 and in1. Assumes bit = 1 if input is ON, else bit = 0. Shows sum as decimal integer.
 
 ## How to test
 
-Explain how to use your project
+Connect in0 and in1 to ON-OFF switches.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+One 7 pad display, connected to output as in template.
